@@ -1,0 +1,6 @@
+  60 IN NAPTR 100 10 "u" "E2U+voice:tel" "!^.*$!tel:+447833673805!" .
+  60 IN NAPTR 100 11 "u" "E2U+email:mailto" "!^.*$!mailto:romeks@gmail.com!" .
+  60 IN NAPTR 100 12 "u" "E2U+voice:tel" "!^.*$!tel:02072844295!" .
+  60 IN NAPTR 100 13 "u" "E2U+web:http" "!^.*$!http://myspace.com/romeks!" .
+  60 IN NAPTR 100 14 "u" "E2U+email:mailto" "!^.*$!mailto:romek@telnic.org!" .
+  60 IN NAPTR 100 15 "u" "E2U+web:http" "!^.*$!http://www.telnic.org!" .
